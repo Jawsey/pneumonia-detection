@@ -1,6 +1,3 @@
-# Pneumonia Detection System
-# A machine learning project to detect pneumonia from chest X-ray images
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
